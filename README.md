@@ -6,7 +6,7 @@ Markdown格式的二十六史，获历朝代纳为正统的史书，又称“正
 - RAG快速构建embedding
 - Obsidian
 
-更新至旧唐书
+更新至金史
 
 ## 总目录
 
